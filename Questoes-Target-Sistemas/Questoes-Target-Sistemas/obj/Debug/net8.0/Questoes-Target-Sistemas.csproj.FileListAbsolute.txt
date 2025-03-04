@@ -1,0 +1,15 @@
+C:\Users\alexp\Desktop\respostas-target-sistemas\Questoes-Target-Sistemas\Questoes-Target-Sistemas\bin\Debug\net8.0\Questoes-Target-Sistemas.exe
+C:\Users\alexp\Desktop\respostas-target-sistemas\Questoes-Target-Sistemas\Questoes-Target-Sistemas\bin\Debug\net8.0\Questoes-Target-Sistemas.deps.json
+C:\Users\alexp\Desktop\respostas-target-sistemas\Questoes-Target-Sistemas\Questoes-Target-Sistemas\bin\Debug\net8.0\Questoes-Target-Sistemas.runtimeconfig.json
+C:\Users\alexp\Desktop\respostas-target-sistemas\Questoes-Target-Sistemas\Questoes-Target-Sistemas\bin\Debug\net8.0\Questoes-Target-Sistemas.dll
+C:\Users\alexp\Desktop\respostas-target-sistemas\Questoes-Target-Sistemas\Questoes-Target-Sistemas\bin\Debug\net8.0\Questoes-Target-Sistemas.pdb
+C:\Users\alexp\Desktop\respostas-target-sistemas\Questoes-Target-Sistemas\Questoes-Target-Sistemas\obj\Debug\net8.0\Questoes-Target-Sistemas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexp\Desktop\respostas-target-sistemas\Questoes-Target-Sistemas\Questoes-Target-Sistemas\obj\Debug\net8.0\Questoes-Target-Sistemas.AssemblyInfoInputs.cache
+C:\Users\alexp\Desktop\respostas-target-sistemas\Questoes-Target-Sistemas\Questoes-Target-Sistemas\obj\Debug\net8.0\Questoes-Target-Sistemas.AssemblyInfo.cs
+C:\Users\alexp\Desktop\respostas-target-sistemas\Questoes-Target-Sistemas\Questoes-Target-Sistemas\obj\Debug\net8.0\Questoes-Target-Sistemas.csproj.CoreCompileInputs.cache
+C:\Users\alexp\Desktop\respostas-target-sistemas\Questoes-Target-Sistemas\Questoes-Target-Sistemas\obj\Debug\net8.0\Questoes-Target-Sistemas.dll
+C:\Users\alexp\Desktop\respostas-target-sistemas\Questoes-Target-Sistemas\Questoes-Target-Sistemas\obj\Debug\net8.0\refint\Questoes-Target-Sistemas.dll
+C:\Users\alexp\Desktop\respostas-target-sistemas\Questoes-Target-Sistemas\Questoes-Target-Sistemas\obj\Debug\net8.0\Questoes-Target-Sistemas.pdb
+C:\Users\alexp\Desktop\respostas-target-sistemas\Questoes-Target-Sistemas\Questoes-Target-Sistemas\obj\Debug\net8.0\Questoes-Target-Sistemas.genruntimeconfig.cache
+C:\Users\alexp\Desktop\respostas-target-sistemas\Questoes-Target-Sistemas\Questoes-Target-Sistemas\obj\Debug\net8.0\ref\Questoes-Target-Sistemas.dll
+C:\Users\alexp\Desktop\respostas-target-sistemas\Questoes-Target-Sistemas\Questoes-Target-Sistemas\bin\Debug\net8.0\dados.json

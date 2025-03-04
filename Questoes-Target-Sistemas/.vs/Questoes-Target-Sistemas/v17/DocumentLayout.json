@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\alexp\\Desktop\\respostas-target-sistemas\\Questoes-Target-Sistemas\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A804C115-F067-4934-96EF-987E52CD4999}|Questoes-Target-Sistemas\\Questoes-Target-Sistemas.csproj|c:\\users\\alexp\\desktop\\respostas-target-sistemas\\questoes-target-sistemas\\questoes-target-sistemas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A804C115-F067-4934-96EF-987E52CD4999}|Questoes-Target-Sistemas\\Questoes-Target-Sistemas.csproj|solutionrelative:questoes-target-sistemas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A804C115-F067-4934-96EF-987E52CD4999}|Questoes-Target-Sistemas\\Questoes-Target-Sistemas.csproj|c:\\users\\alexp\\desktop\\respostas-target-sistemas\\questoes-target-sistemas\\questoes-target-sistemas\\exercicio2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A804C115-F067-4934-96EF-987E52CD4999}|Questoes-Target-Sistemas\\Questoes-Target-Sistemas.csproj|solutionrelative:questoes-target-sistemas\\exercicio2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A804C115-F067-4934-96EF-987E52CD4999}|Questoes-Target-Sistemas\\Questoes-Target-Sistemas.csproj|c:\\users\\alexp\\desktop\\respostas-target-sistemas\\questoes-target-sistemas\\questoes-target-sistemas\\exercicio5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A804C115-F067-4934-96EF-987E52CD4999}|Questoes-Target-Sistemas\\Questoes-Target-Sistemas.csproj|solutionrelative:questoes-target-sistemas\\exercicio5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A804C115-F067-4934-96EF-987E52CD4999}|Questoes-Target-Sistemas\\Questoes-Target-Sistemas.csproj|c:\\users\\alexp\\desktop\\respostas-target-sistemas\\questoes-target-sistemas\\questoes-target-sistemas\\exercicio3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A804C115-F067-4934-96EF-987E52CD4999}|Questoes-Target-Sistemas\\Questoes-Target-Sistemas.csproj|solutionrelative:questoes-target-sistemas\\exercicio3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A804C115-F067-4934-96EF-987E52CD4999}|Questoes-Target-Sistemas\\Questoes-Target-Sistemas.csproj|c:\\users\\alexp\\desktop\\respostas-target-sistemas\\questoes-target-sistemas\\questoes-target-sistemas\\exercicio4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A804C115-F067-4934-96EF-987E52CD4999}|Questoes-Target-Sistemas\\Questoes-Target-Sistemas.csproj|solutionrelative:questoes-target-sistemas\\exercicio4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A804C115-F067-4934-96EF-987E52CD4999}|Questoes-Target-Sistemas\\Questoes-Target-Sistemas.csproj|c:\\users\\alexp\\desktop\\respostas-target-sistemas\\questoes-target-sistemas\\questoes-target-sistemas\\exercicio1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A804C115-F067-4934-96EF-987E52CD4999}|Questoes-Target-Sistemas\\Questoes-Target-Sistemas.csproj|solutionrelative:questoes-target-sistemas\\exercicio1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A804C115-F067-4934-96EF-987E52CD4999}|Questoes-Target-Sistemas\\Questoes-Target-Sistemas.csproj|c:\\users\\alexp\\desktop\\respostas-target-sistemas\\questoes-target-sistemas\\questoes-target-sistemas\\dados.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A804C115-F067-4934-96EF-987E52CD4999}|Questoes-Target-Sistemas\\Questoes-Target-Sistemas.csproj|solutionrelative:questoes-target-sistemas\\dados.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Exercicio5.cs",
+              "DocumentMoniker": "C:\\Users\\alexp\\Desktop\\respostas-target-sistemas\\Questoes-Target-Sistemas\\Questoes-Target-Sistemas\\Exercicio5.cs",
+              "RelativeDocumentMoniker": "Questoes-Target-Sistemas\\Exercicio5.cs",
+              "ToolTip": "C:\\Users\\alexp\\Desktop\\respostas-target-sistemas\\Questoes-Target-Sistemas\\Questoes-Target-Sistemas\\Exercicio5.cs",
+              "RelativeToolTip": "Questoes-Target-Sistemas\\Exercicio5.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T00:20:00.742Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Exercicio4.cs",
+              "DocumentMoniker": "C:\\Users\\alexp\\Desktop\\respostas-target-sistemas\\Questoes-Target-Sistemas\\Questoes-Target-Sistemas\\Exercicio4.cs",
+              "RelativeDocumentMoniker": "Questoes-Target-Sistemas\\Exercicio4.cs",
+              "ToolTip": "C:\\Users\\alexp\\Desktop\\respostas-target-sistemas\\Questoes-Target-Sistemas\\Questoes-Target-Sistemas\\Exercicio4.cs",
+              "RelativeToolTip": "Questoes-Target-Sistemas\\Exercicio4.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T00:15:57.342Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Exercicio3.cs",
+              "DocumentMoniker": "C:\\Users\\alexp\\Desktop\\respostas-target-sistemas\\Questoes-Target-Sistemas\\Questoes-Target-Sistemas\\Exercicio3.cs",
+              "RelativeDocumentMoniker": "Questoes-Target-Sistemas\\Exercicio3.cs",
+              "ToolTip": "C:\\Users\\alexp\\Desktop\\respostas-target-sistemas\\Questoes-Target-Sistemas\\Questoes-Target-Sistemas\\Exercicio3.cs",
+              "RelativeToolTip": "Questoes-Target-Sistemas\\Exercicio3.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAgwDcAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T00:15:00.3Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Exercicio2.cs",
+              "DocumentMoniker": "C:\\Users\\alexp\\Desktop\\respostas-target-sistemas\\Questoes-Target-Sistemas\\Questoes-Target-Sistemas\\Exercicio2.cs",
+              "RelativeDocumentMoniker": "Questoes-Target-Sistemas\\Exercicio2.cs",
+              "ToolTip": "C:\\Users\\alexp\\Desktop\\respostas-target-sistemas\\Questoes-Target-Sistemas\\Questoes-Target-Sistemas\\Exercicio2.cs",
+              "RelativeToolTip": "Questoes-Target-Sistemas\\Exercicio2.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T00:13:25.763Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Exercicio1.cs",
+              "DocumentMoniker": "C:\\Users\\alexp\\Desktop\\respostas-target-sistemas\\Questoes-Target-Sistemas\\Questoes-Target-Sistemas\\Exercicio1.cs",
+              "RelativeDocumentMoniker": "Questoes-Target-Sistemas\\Exercicio1.cs",
+              "ToolTip": "C:\\Users\\alexp\\Desktop\\respostas-target-sistemas\\Questoes-Target-Sistemas\\Questoes-Target-Sistemas\\Exercicio1.cs",
+              "RelativeToolTip": "Questoes-Target-Sistemas\\Exercicio1.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAYAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T00:06:47.057Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\alexp\\Desktop\\respostas-target-sistemas\\Questoes-Target-Sistemas\\Questoes-Target-Sistemas\\Program.cs",
+              "RelativeDocumentMoniker": "Questoes-Target-Sistemas\\Program.cs",
+              "ToolTip": "C:\\Users\\alexp\\Desktop\\respostas-target-sistemas\\Questoes-Target-Sistemas\\Questoes-Target-Sistemas\\Program.cs",
+              "RelativeToolTip": "Questoes-Target-Sistemas\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T23:11:59.466Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "dados.json",
+              "DocumentMoniker": "C:\\Users\\alexp\\Desktop\\respostas-target-sistemas\\Questoes-Target-Sistemas\\Questoes-Target-Sistemas\\dados.json",
+              "RelativeDocumentMoniker": "Questoes-Target-Sistemas\\dados.json",
+              "ToolTip": "C:\\Users\\alexp\\Desktop\\respostas-target-sistemas\\Questoes-Target-Sistemas\\Questoes-Target-Sistemas\\dados.json",
+              "RelativeToolTip": "Questoes-Target-Sistemas\\dados.json",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-03T23:20:35.815Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

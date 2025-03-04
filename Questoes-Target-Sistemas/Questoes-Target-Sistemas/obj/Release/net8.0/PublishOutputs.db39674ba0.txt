@@ -1,0 +1,6 @@
+C:\Users\alexp\Desktop\respostas-target-sistemas\Questoes-Target-Sistemas.exe
+C:\Users\alexp\Desktop\respostas-target-sistemas\dados.json
+C:\Users\alexp\Desktop\respostas-target-sistemas\Questoes-Target-Sistemas.dll
+C:\Users\alexp\Desktop\respostas-target-sistemas\Questoes-Target-Sistemas.deps.json
+C:\Users\alexp\Desktop\respostas-target-sistemas\Questoes-Target-Sistemas.runtimeconfig.json
+C:\Users\alexp\Desktop\respostas-target-sistemas\Questoes-Target-Sistemas.pdb
