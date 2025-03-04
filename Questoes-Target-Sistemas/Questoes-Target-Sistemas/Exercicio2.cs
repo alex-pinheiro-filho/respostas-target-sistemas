@@ -22,13 +22,11 @@ namespace Questoes_Target_Sistemas.Exercicios
             bool pertence = false;
             int a = 0, b = 1;
 
-            // Se o número for 0 ou 1, já está na sequência
             if (numero == a || numero == b)
                 pertence = true;
             else
             {
                 int fib = a + b;
-                // Gera os próximos números da sequência até ultrapassar ou encontrar o número
                 while (fib <= numero)
                 {
                     if (fib == numero)

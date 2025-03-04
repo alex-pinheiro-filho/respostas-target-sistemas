@@ -21,7 +21,6 @@ namespace Questoes_Target_Sistemas.Exercicios
                 return;
             }
 
-            // Lê os dados do arquivo JSON e desserializa para uma lista de FaturamentoDia
             string jsonData = File.ReadAllText(fileName);
             List<FaturamentoDia> dados = JsonSerializer.Deserialize<List<FaturamentoDia>>(jsonData);
 
@@ -31,7 +30,6 @@ namespace Questoes_Target_Sistemas.Exercicios
                 return;
             }
 
-            // Filtra apenas os dias com faturamento (valor > 0)
             var diasComFaturamento = dados.Where(d => d.valor > 0).ToList();
 
             if (diasComFaturamento.Count == 0)

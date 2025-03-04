@@ -13,7 +13,6 @@ namespace Questoes_Target_Sistemas.Exercicios
             Console.WriteLine("\nExercício 1: Retornar o valor da variável SOMA.");
             int INDICE = 13, SOMA = 0, K = 0;
 
-            // Incrementa K de 0 até INDICE, acumulando a soma
             while (K < INDICE)
             {
                 K = K + 1;

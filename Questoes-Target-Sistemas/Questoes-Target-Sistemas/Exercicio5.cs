@@ -15,7 +15,6 @@ namespace Questoes_Target_Sistemas.Exercicios
             string? texto = Console.ReadLine();
             string textoInvertido = "";
 
-            // Percorre a string de trás para frente para construir a string invertida
             for (int i = texto.Length - 1; i >= 0; i--)
             {
                 textoInvertido += texto[i];
